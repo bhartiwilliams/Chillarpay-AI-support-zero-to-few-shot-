@@ -1,7 +1,7 @@
 # Chillarpay-AI-support-zero-to-few-shot-
 Lab 2: From Zero-shot to Few-shot
 The ChillarPay Case
-Name: [Your Name]        Course: BBA (FinTech), Chitkara Business School        Tool used: Claude
+Name: [Bharti Williams]        Course: BBA (FinTech), Chitkara Business School        Tool used: Claude
 This document has the content of all the files for my GitHub repository (01 to 06 and the README), in order.
 File 1: 01_case_study.md
 ChillarPay is a fictional UPI payments app in Jaipur, used mainly by college students and small shopkeepers. It has 8 lakh users and receives about 2,000 support messages a day in English and Hinglish. Its 6-person support team cannot keep up, and urgent fraud cases get lost among simple questions.
