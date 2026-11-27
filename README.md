@@ -1,5 +1,5 @@
 # Chillarpay-AI-support-zero-to-few-shot-
-Author: [Your Name] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
+Author: [Bharti Williams] · BBA (FinTech), Chitkara Business School · Tool: [ChatGPT / Claude] · [Month Year]
 
 
 ## The case
